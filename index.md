@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## EmoteLoad ES-ES
+### EmoteLoad  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ [[**CHANGE LANGUAGE**]](https://emoteload.ml)
 
-You can use the [editor on GitHub](https://github.com/fireboydev/emoteload-es/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![image](https://cdn.discordapp.com/attachments/822621497272303698/902661535405600818/EMOTELOAD_BANNER.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Emoteload, un bot enfocado en agregar emojis a tu servidor de una manera fácil, con solo un comando, tenemos muchos emojis para que tengas una buena experiencia con el bot.
+Agrega el bot a tu servidor, agrega algunos emojis y comienza la fiesta. ¿Y ahí? ¿Vamonos?
 
-### Markdown
+[Haga clic aquí para ver los emojis](https://emojis.emoteload.ml)   
+[Servidor de soporte de Emojis en Discord](https://discord.gg/v6Srh9fr)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ve, aunque sea un poco, ve, no seas malo, ve, solo un poco, ¿siiii?
+[Iniciar viaje](https://discord.com/oauth2/authorize?client_id=817408987426455592&scope=bot%20applications.commands&permissions=2147483647)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Conocer al equipo
+- Davizin128 (Fundador)
+- FIRE BOY (Fundador) 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fireboydev/emoteload-es/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+© Copyright EmoteLoad 2021. Todos los direitos reservados. [Discord](https://discord.gg/v6Srh9fr) • [Twitter](https://twitter.com/FIREBOYOFC) 
