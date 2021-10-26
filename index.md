@@ -6,7 +6,7 @@
 Emoteload, un bot enfocado en agregar emojis a tu servidor de una manera fácil, con solo un comando, tenemos muchos emojis para que tengas una buena experiencia con el bot.
 Agrega el bot a tu servidor, agrega algunos emojis y comienza la fiesta. ¿Y ahí? ¿Vamonos?
 
-[Haga clic aquí para ver los emojis](https://es.emojis.emoteload.ml/)   
+[Haga clic aquí para ver los emojis](http://es.emojis.emoteload.ml/)   
 [Servidor de soporte de Emojis en Discord](https://discord.gg/v6Srh9fr)
 
 Ve, aunque sea un poco, ve, no seas malo, ve, solo un poco, ¿siiii?
